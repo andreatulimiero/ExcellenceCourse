@@ -1,0 +1,6 @@
+{
+    "start_config":  {
+        "machine": "Windows 7",
+        "type": "GUI"
+    }
+}
